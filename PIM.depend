@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664385517 source:c:\users\daniel.alencar\documents\pim\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1665413026 source:d:\documentos daniel\codigos\pim\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
